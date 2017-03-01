@@ -1,6 +1,6 @@
 #####[Back to competition page](../README.md)
 
-# Coin Flipper
+# [Coin Flipper](./problem.pdf)
 #### Problem adapted from ICPC by Brandon Ali
 
 --------
