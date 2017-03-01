@@ -6,6 +6,8 @@
     is a tool! That's why it's important to know your standard libraries
     and learn a handful of different languages.
 
+    Check my other solution to see how to do this without eval().
+
     First I convert the input string to valid parseable python list
     notation. Then I evaluate it as python code as a python list.
     Finally I can just retrieve elements from my list normally.
