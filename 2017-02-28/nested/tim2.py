@@ -25,7 +25,7 @@
 # Parse input
 raw = input()
 # Read up on python list comprehensions if this is confusing
-indeces = [int(x) for x in input().split(' ')]
+indices = [int(x) for x in input().split(' ')]
 
 def parse_list(raw):
     # Honestly not really a stack because we never use
@@ -33,7 +33,7 @@ def parse_list(raw):
     stack = []
 
     # This is probably python heresy, but I want precise control
-    # of my loop indeces. Can probably use iter() and iter.next
+    # of my loop indices. Can probably use iter() and iter.next
     # to do this too, but I'm not too familiar with python.
     i = 1
     while i < len(raw):
@@ -62,8 +62,8 @@ def parse_list(raw):
 
 final_list, size = parse_list(raw)
 
-# Loop through the indeces and retrieve my element
-for index in indeces:
+# Loop through the indices and retrieve my element
+for index in indices:
     # Set as found sublist
     final_list = final_list[index]
 

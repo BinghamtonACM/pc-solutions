@@ -19,7 +19,7 @@ import re
 # Parse input
 raw = input()
 # Read up on python list comprehensions if this is confusing
-indeces = [int(x) for x in input().split(' ')]
+indices = [int(x) for x in input().split(' ')]
 
 # This is a good demonstration of why it's always important to read the input format.
 # "A char can be [0-9A-Za-z!@#$%^&*()>"
@@ -41,8 +41,8 @@ raw = re.sub("}", ">", raw)
 # eval() parses a string as if it were actual python code
 list = eval(raw)
 
-# Loop through the indeces and retrieve my element
-for index in indeces:
+# Loop through the indices and retrieve my element
+for index in indices:
     # Set as found sublist
     list = list[index]
 
