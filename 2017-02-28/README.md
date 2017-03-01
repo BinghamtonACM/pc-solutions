@@ -5,6 +5,6 @@
 -----------
 ## Problems
 
-#### - [Coin Flipper](./coin-flipper/)
-#### - [The Mathematician's Assistant](./the-mathematicians-assistant/)
+#### - [Coin Flipper](./coin-flipper/README.md)
+#### - [The Mathematician's Assistant](./the-mathematicians-assistant/README.md)
 #### - [Nested](./nested/README.md)
