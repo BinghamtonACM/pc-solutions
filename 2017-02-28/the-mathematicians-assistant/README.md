@@ -6,5 +6,5 @@
 --------
 ## Solutions
 
-#### - [Python](./tim1.py/)
-#### - [Python](./nik1.py/)
+#### - [Python](./tim1.py/) (Heavily commented)
+#### - [Python](./nik1.py/) (As short as possible. Submitted by [Nik Vanderhoof](https://github.com/nvander1/))
