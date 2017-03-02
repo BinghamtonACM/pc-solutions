@@ -8,3 +8,4 @@
 
 #### - [Python](./tim.py/)
 #### - [C](./taylor.c/)
+#### - [Erlang](./taylor.erl/)
