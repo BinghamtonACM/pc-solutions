@@ -1,6 +1,6 @@
 #####[Back to competition page](../README.md)
 
-# [Pythagorean Crop Formation](./problem.pdf)
+# Pythagorean Crop Formation
 #### Problem written by Matthew Cole
 
 --------

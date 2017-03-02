@@ -1,6 +1,6 @@
 #####[Back to competition page](../README.md)
 
-# [Plain Letter Spell Out](./problem.pdf)
+# Plain Letter Spell Out
 #### Problem written by Matthew Cole
 
 --------
