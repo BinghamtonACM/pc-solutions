@@ -6,7 +6,7 @@ Using _n_-many chains, each with many links of a given unit size, Pythagoras wou
 
 | _n_ | _l_ | sides _a_, _b_, _c_ |
 |-----|-----|---------------------|
-| $ 1 \lt n \le 10 $ | $ \lt 2 \cdot {10}^{7} $ | $ a \lt b \lt c. a, b, c \in \mathbb{N} > 0 $|
+| 1 < n < 10 | < 2 x 10^7 | a < b < c with a, b, c in integers > 0 |
 
 ### Input Format
 
