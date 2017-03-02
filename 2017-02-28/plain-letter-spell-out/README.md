@@ -1,4 +1,4 @@
-(Matthew's note: if you're interested in the real-world theory behind this question, check out [this declassified report from the Cold War](http://www.dtic.mil/dtic/tr/fulltext/u2/a017852.pdf)
+(Matthew's note: if you're interested in the real-world theory behind this question, check out [this declassified report from the Cold War](http://www.dtic.mil/dtic/tr/fulltext/u2/a017852.pdf))
 
 The year is 2018. You have survived the nuclear apocalypse caused by the last U.S. president in part because the Watson School for Engineering was built by Vault-Tec (_"Revolutionizing safety for an uncertain future!"_™). Not only was this bleak concrete structure made to demoralize Harpur College undergraduates but also to survive a direct hit from a nuclear warhead. You were studying for your midterms in G7 when the bombs fell.
 
