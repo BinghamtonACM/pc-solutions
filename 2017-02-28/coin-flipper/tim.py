@@ -5,6 +5,10 @@
 # An OrderedDict or ordered map will give me a fast lookup time and maintain order.
 from collections import OrderedDict
 
+# I store the ordered permutations and declare my ordered dict
+perm_list = ['TTT','TTH','THT','THH','HTT','HTH','HHT','HHH']
+perms = OrderedDict()
+
 num_cases = int(input())
 for i in range(1, num_cases + 1, 1):
     # Each output line begins with the case number
@@ -13,15 +17,9 @@ for i in range(1, num_cases + 1, 1):
 
     # I define my permutations with the perm as the key
     # and the count as the value
-    perms = OrderedDict()
-    perms['TTT']= 0
-    perms['TTH']= 0
-    perms['THT']= 0
-    perms['THH']= 0
-    perms['HTT']= 0
-    perms['HTH']= 0
-    perms['HHT']= 0
-    perms['HHH']= 0
+    # Reset all the values to 0
+    for perm in perm_list:
+        perms[perm] = 0
 
     # Loop through the raw input until the 3rd to last elem
     for trip in range(0, len(raw)-2, 1):
