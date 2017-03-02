@@ -7,3 +7,4 @@
 ## Solutions
 
 #### - [Python](./tim1.py/)
+#### - [Python](./nik1.py/)
