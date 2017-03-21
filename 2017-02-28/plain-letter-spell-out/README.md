@@ -1,4 +1,4 @@
-#####[Back to competition page](../README.md)
+##### [Back to competition page](../README.md)
 
 # Plain Letter Spell Out
 #### Problem written by Matthew Cole

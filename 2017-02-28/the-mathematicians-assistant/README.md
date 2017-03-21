@@ -1,4 +1,4 @@
-#####[Back to competition page](../README.md)
+##### [Back to competition page](../README.md)
 
 # [The Mathematician's Assistant](./problem.pdf)
 #### Problem written by Tim Hung
