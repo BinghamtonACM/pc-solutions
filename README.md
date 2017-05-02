@@ -7,3 +7,5 @@ Solutions to Binghamton ACM's old programming competitions
 ## Competitions
 
 #### - [February 2017](./2017-02-28/README.md)
+
+#### - [April 2017](./2017-04-25/README.md)
