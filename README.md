@@ -1,11 +1,11 @@
-# Binghamton ACM Programming Competition Problems and Solutions
+# Binghamton ACM Problems and Solutions
 
-Solutions to Binghamton ACM's old programming competitions
+Solutions to Binghamton ACM's problems from programming competitions and workshops
 
 ---
 
 ## Competitions
 
-#### - [February 2017](./2017-02-28/README.md)
+#### - [February 2017](./competitions/2017-02-28/README.md)
 
-#### - [April 2017](./2017-04-25/README.md)
+#### - [April 2017](./competitions/2017-04-25/README.md)
