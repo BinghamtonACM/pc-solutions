@@ -5,7 +5,7 @@ def naive_is_alphabetical(word):
         If the two are equal, then the word
         was already in order.
     """
-    return word == ''.join(sorted(list(word)))
+    return word == ''.join(sorted(word))
 
 
 def is_alphabetical(word):
