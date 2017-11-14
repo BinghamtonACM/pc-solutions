@@ -29,3 +29,12 @@ How can we check if two words anagrams of each other? We examine two implementat
 Which algorithm is "better"? How can we analyze these two algorithms? What are their time complexities?
 
 #### - [Java Solution](./anagram/Anagram.java)
+
+
+## Priority Queues
+
+November 14th, 2017
+
+What are Priority Queues? How can we implement them?
+
+#### - [Binary Min Heap implementation in java](./heap)
